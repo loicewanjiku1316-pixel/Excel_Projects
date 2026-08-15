@@ -30,12 +30,28 @@ Each report discloses the current year's generation mix alongside the prior year
    - A 100% stacked column chart showing generation mix (% share) by year
    - A line chart showing generation trends (GWh) by source over time
 
+## Visualizations
+
+### Generation Mix by Year (% Share)
+
+![KenGen Electricity Generation Mix, 2020-2025](charts/generation_mix_percent.png)
+
+Shows each source's share of total generation per year. Geothermal's share rises sharply in 2023 as it absorbs the gap left by hydro's drought-driven decline, then eases back down from 2024 as hydro recovers.
+
+### Generation Trends by Source (GWh)
+
+![KenGen Electricity Generation by Source, 2020-2025](charts/generation_trends_gwh.png)
+
+Shows absolute output (GWh) per source over time, with linear trendlines for Hydro and Geothermal. Hydro's volatility (driven by rainfall) is visible against Geothermal's more stable, upward-trending output. Thermal and Wind remain minor contributors throughout.
+
 ## Repository Contents
 
 | File | Description |
 |---|---|
 | `KenGen_Generation_Mix_Analysis.xlsx` | Full workbook — raw yearly data, Power Query steps, PivotTables, and both charts |
-| `charts/` | Exported chart images (generation mix %, generation trends GWh) |
+| `charts/generation_mix_percent.png` | Chart — generation mix by year (% share) |
+| `charts/generation_trends_gwh.png` | Chart — generation trends by source (GWh) |
+| `source-reports/` | KenGen Integrated Annual Reports (PDF) used as source data |
 
 ## Tools Used
 
