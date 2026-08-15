@@ -34,13 +34,13 @@ Each report discloses the current year's generation mix alongside the prior year
 
 ### Generation Mix by Year (% Share)
 
-![KenGen Electricity Generation Mix, 2020-2025](charts/generation_mix_percent.png)
+![KenGen Electricity Generation Mix, 2020-2025]<img width="659" height="426" alt="Screenshot 2026-08-13 111300" src="https://github.com/user-attachments/assets/2a9a39c2-1531-4cd9-b0bf-6f8fb8944949" />
 
 Shows each source's share of total generation per year. Geothermal's share rises sharply in 2023 as it absorbs the gap left by hydro's drought-driven decline, then eases back down from 2024 as hydro recovers.
 
 ### Generation Trends by Source (GWh)
 
-![KenGen Electricity Generation by Source, 2020-2025](charts/generation_trends_gwh.png)
+![KenGen Electricity Generation by Source, 2020-2025]<img width="987" height="429" alt="Screenshot 2026-08-13 111332" src="https://github.com/user-attachments/assets/06a4d58c-7130-4d98-a6b4-f23b6db28685" />
 
 Shows absolute output (GWh) per source over time, with linear trendlines for Hydro and Geothermal. Hydro's volatility (driven by rainfall) is visible against Geothermal's more stable, upward-trending output. Thermal and Wind remain minor contributors throughout.
 
