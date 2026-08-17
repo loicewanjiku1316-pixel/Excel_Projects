@@ -59,7 +59,7 @@ Shows absolute output (GWh) per source over time, with linear trendlines for Hyd
 
 ## Related
 
-A summary write-up of this analysis, with additional context comparing Kenya's diversified grid to Zambia's hydro-dependent grid during the same drought period, was published on LinkedIn: *[add link]*
+A summary write-up of this analysis, with additional context comparing Kenya's diversified grid to Zambia's hydro-dependent grid during the same drought period, was published on LinkedIn: *[https://www.linkedin.com/feed/update/urn:li:activity:7494966256463400960/]*
 
 ## Author
 
